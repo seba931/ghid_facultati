@@ -8,6 +8,7 @@ $raspuns_nou = [
     "raspuns" => $_POST["raspuns"]
 ];
 
+
 foreach ($intrebari as &$intrebare) {
     if ($intrebare["id"] == $id_intrebare) {
         $intrebare["raspunsuri"][] = $raspuns_nou;
