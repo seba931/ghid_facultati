@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "titlu": "Ghid Admitere Informatică",
+        "descriere": "Un ghid detaliat despre admiterea la facultățile de informatică din România.",
+        "link": "https://exemplu.ro/ghid-informatica.pdf"
+    },
+    {
+        "id": 2,
+        "titlu": "Matematică pentru BAC",
+        "descriere": "Culegere de exerciții și probleme pentru Bacalaureat la matematică.",
+        "link": "https://exemplu.ro/matematica-bac.pdf"
+    },
+    {
+        "id": 3,
+        "titlu": "Sfaturi pentru Interviul de Admitere",
+        "descriere": "Cum să te pregătești pentru un interviu de admitere la facultate.",
+        "link": "https://exemplu.ro/interviu-admitere.html"
+    }
+]

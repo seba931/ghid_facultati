@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nume": "Universitatea din București",
+        "oras": "București",
+        "admitere": "Examen",
+        "taxa": 3500,
+        "burse": "Da",
+        "specializari": ["Informatică", "Matematică", "Drept"]
+    },
+    {
+        "id": 2,
+        "nume": "Universitatea Politehnica",
+        "oras": "București",
+        "admitere": "Dosar",
+        "taxa": 4000,
+        "burse": "Nu",
+        "specializari": ["Calculatoare", "Inginerie Electrică"]
+    },
+    {
+        "id": 3,
+        "nume": "Universitatea Babeș-Bolyai",
+        "oras": "Cluj-Napoca",
+        "admitere": "Examen",
+        "taxa": 3000,
+        "burse": "Da",
+        "specializari": ["Economie", "Psihologie"]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "utilizator": "MariaLiceu",
+        "intrebare": "Cum este admiterea la Informatică la Universitatea din București?",
+        "raspunsuri": [
+            {
+                "utilizator": "AndreiStudent",
+                "raspuns": "Examenul este destul de dificil, dar dacă te pregătești bine la matematică, ai șanse mari."
+            }
+        ]
+    }
+]

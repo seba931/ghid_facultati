@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "intrebare": "Ce materie îți place cel mai mult?",
+        "raspunsuri": {
+            "a": "Matematică și informatică",
+            "b": "Literatură și arte",
+            "c": "Biologie și chimie",
+            "d": "Economie și business"
+        },
+        "scor": {
+            "a": "IT",
+            "b": "Litere",
+            "c": "Medicină",
+            "d": "Economie"
+        }
+    },
+    {
+        "id": 2,
+        "intrebare": "Cum îți imaginezi jobul ideal?",
+        "raspunsuri": {
+            "a": "Lucrând la un calculator, scriind cod",
+            "b": "Scriind cărți sau articole",
+            "c": "Ajutând oameni în domeniul sănătății",
+            "d": "Lucrând cu bani și afaceri"
+        },
+        "scor": {
+            "a": "IT",
+            "b": "Litere",
+            "c": "Medicină",
+            "d": "Economie"
+        }
+    }
+]
